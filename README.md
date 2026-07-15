@@ -1,72 +1,141 @@
 # Smope 🙁
 
-> A proposed English word for the mouth-only opposite of a smile.
-
-## The lexical gap
+## A proposed word for the mouth-only opposite of a smile
 
 English has a simple word for this:
 
 🙂 **smile**
 
-But there is no common everyday word referring solely to this:
+But apparently no equally simple, widely accepted word for this:
 
-🙁
+🙁 **?**
 
-Words such as **frown**, **pout**, **grimace**, **scowl**, and **sneer** all describe more than the shape of the mouth. They often imply eyebrow movement, lip posture, or a particular emotion.
+A *frown* often involves the eyebrows and forehead. A *pout* involves protruding lips. A *grimace* suggests pain, disgust, or discomfort.
 
-This repository proposes a new word for the simple downward curvature of the corners of the mouth.
+None of those words precisely describes the simple physical action of turning the corners of the mouth downward.
 
-## Proposed word
+This repository proposes a word for that missing concept:
 
-### **smope** *(noun, verb)*
+# **smope**
 
-**Pronunciation:** /smoʊp/ (rhymes with *hope*)
+**Pronunciation:** /smoʊp/
+Rhymes with *hope*.
 
-### Definition
+## Definition
+
+### smope
 
 **noun**
 
-The downward curvature of the corners of the mouth, considered independently of the eyebrows or any specific emotion.
+A downward curvature of the corners of the mouth, considered independently of the eyebrows or any particular emotion.
+
+> A faint smope appeared on her face.
 
 **verb**
 
-To turn the corners of the mouth downward without necessarily frowning, pouting, or expressing a particular emotion.
+To turn the corners of the mouth downward, without necessarily frowning, pouting, or expressing a specific emotion.
+
+> He smoped sympathetically.
+
+> She did not frown; she simply smoped.
+
+## Why not “frown”?
+
+In ordinary usage, *frown* often refers to tension or movement in the eyebrows, forehead, or face as a whole. It can also imply anger, concern, concentration, or disapproval.
+
+A **smope** refers specifically to the shape of the mouth:
+
+* **smile:** corners of the mouth turn upward
+* **smope:** corners of the mouth turn downward
+
+The word describes the visible movement, not its emotional interpretation.
+
+## Why “smope”?
+
+The word is:
+
+* short;
+* easy to pronounce;
+* usable as both a noun and a verb;
+* reminiscent of *smile*, *slope*, *mope*, and *droop*;
+* emotionally neutral enough to describe sadness, sympathy, disappointment, uncertainty, or deliberate facial posing.
+
+It also feels like a word that could already have existed.
+
+## Related term: downsmile
+
+**Downsmile** is proposed as a transparent alternative or descriptive synonym.
+
+> She gave a small downsmile.
+
+Possible distinction:
+
+* **downsmile** — the descriptive or technical term;
+* **smope** — the compact everyday word.
 
 ## Examples
 
-> She smoped sympathetically.
+> The child smoped when the ice cream fell.
 
-> A slight smope crossed his face.
+> His mouth formed a slight smope, though his eyebrows remained relaxed.
 
-> He didn't frown; he simply smoped.
+> She answered with a sympathetic downsmile.
 
-> It wasn't quite a pout and not really a frown. It was a smope.
+> It was not quite a pout and not really a frown. It was a smope.
 
-## Why "smope"?
+> “Don’t smope,” he said. “We’ll try again tomorrow.”
 
-The proposed word is:
+## Proposed forms
 
-- short
-- easy to pronounce
-- usable as both a noun and a verb
-- visually and phonetically reminiscent of *smile*
-- emotionally neutral
-
-## Relation to "downsmile"
-
-**Downsmile** is a descriptive phrase for the same concept.
-
-**Smope** is proposed as the compact lexical form.
+| Form                  | Word              |
+| --------------------- | ----------------- |
+| Base verb             | smope             |
+| Third-person singular | smopes            |
+| Present participle    | smoping           |
+| Past tense            | smoped            |
+| Noun                  | smope             |
+| Plural noun           | smopes            |
+| Person who smopes     | smoper            |
+| Adjective             | smoping or smoped |
 
 ## Status
 
-This repository records the proposal of **smope** as a new English word.
+**Smope is a proposed neologism.**
 
-It does **not** claim that no equivalent word exists in every human language. Rather, it documents a proposal intended to fill an apparent lexical gap in English.
+This repository does not claim that no comparable word has ever existed in any of the world’s languages. It records a proposal for a concise English word filling an apparent lexical gap.
 
-Languages evolve through usage, not decree.
+The proposal was publicly documented in **2026**.
 
-If enough people find **smope** useful, perhaps one day it will simply become another English word.
+## How words become real
+
+No institution officially approves new English words.
+
+A word becomes part of a language when people begin using it, understanding it, repeating it, and applying it in new situations.
+
+So:
+
+1. Use **smope** in a sentence.
+2. Share the word.
+3. Correct people when they call every downturned mouth a frown.
+4. Let usage decide whether the word survives.
+
+## Contributing
+
+Examples, translations, linguistic research, historical parallels, illustrations, and evidence of independent usage are welcome.
+
+Please open an issue or submit a pull request.
+
+## Citation
+
+Suggested citation:
+
+> “Smope: A proposed word for the mouth-only opposite of a smile.” First publicly documented in 2026.
+
+## License
+
+The word **smope** is offered freely for public use.
+
+No permission is required to speak it, write it, define it, translate it, criticize it, improve it, or help it enter the language.
 
 ---
 
