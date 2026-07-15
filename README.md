@@ -104,7 +104,7 @@ Possible distinction:
 
 This repository does not claim that no comparable word has ever existed in any of the world’s languages. It records a proposal for a concise English word filling an apparent lexical gap.
 
-The proposal was publicly documented on July 15, **2026**.
+The proposal was publicly documented on **July 15, 2026**.
 
 ## How words become real
 
